@@ -1,0 +1,29 @@
+{
+  "name": "ejs-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-Gallery/ejs-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-Gallery/ejs-lab/issues"
+  },
+  "homepage": "https://github.com/Matt-Gallery/ejs-lab#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
